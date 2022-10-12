@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Website",
+    "name": "Madhura Pawar UI/UX",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -57,7 +57,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "tn52emissy",
+    "mbrsiteDomain": "wsp3h6xgwf",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -67,7 +67,9 @@
     "gdpr": false,
     "uniqCompNum": 23,
     "versionPublish": "5.6.13",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "screenshot": "screenshot.png",
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
