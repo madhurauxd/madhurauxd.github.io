@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Madhura New Website",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
